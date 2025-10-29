@@ -1,5 +1,5 @@
 # EMIT
-Eve Online Marketing and Industry Tool
+Eve Online Marketing and Industry Tool, by `S3Ka`
 
 ## Description
 Standalone Python tool to help visualize blueprint costs and materials breakdown.
@@ -52,7 +52,7 @@ Replace the `X-ApiKey` in `market.py` header to match yours.\
 * Click Builds, Add New Build. Type in an item you want to build.
 
 ## Acknowledgments
-Special Thanks to Eve Online pilots Cat-Mix and Astral Destiny for their support in guiding and testing this tool.
+Special Thanks to Eve Online pilots `Cat-Mix` and `Astral Destiny` for their support in guiding and testing this tool.
 
 ### Supporting JS Projects
 * Grid.js - MIT License: https://gridjs.io/docs/license 
