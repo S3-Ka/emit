@@ -54,7 +54,7 @@ Replace the `X-ApiKey` in `market.py` header to match yours.\
 ## Acknowledgments
 Special Thanks to Eve Online pilots Cat-Mix and Astral Destiny for their support in guiding and testing this tool.
 
-## Supporting JS Projects
+### Supporting JS Projects
 * Grid.js - MIT License: https://gridjs.io/docs/license 
 * Chart.js - MIT License: https://github.com/chartjs/Chart.js/blob/master/LICENSE.md
 * Go.js - Evaluation License: https://github.com/NorthwoodsSoftware/GoJS/blob/master/evaluationLicense.html
