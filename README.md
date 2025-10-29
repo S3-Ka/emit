@@ -11,17 +11,16 @@ Standalone Python tool to help visualize blueprint costs and materials breakdown
 1. Install Python (I'm using 3.11.5)
 
 2. Open Terminal (in my case PowerShell).
-   * Change Directory (cd) to directory that has this stuff.
+   * Change Directory (`cd`) to directory that has this stuff.
    * run: `python -m venv venv`
-   * This creates a virtual python env in a subdir named "venv"
+   * This creates a virtual python environment in a subdir named `venv`
 
-3. Activate your virtual environment: venv\Scripts\Activate.ps1
-   * (That's the PowerShell command.  If CMD, use the .bat version.)
+3. Activate your virtual environment: `venv\Scripts\Activate.ps1` \
+   (That's the PowerShell command.  If CMD, use the .bat version.)
 
 4. Now install dependencies into your new virtual environment
    * First, upgrade pip: `python.exe -m pip install --upgrade pip`
-   * Then use pip to install stuff into Python:
-   * `pip install flask requests pandas`
+   * Then use pip to install stuff into Python: `pip install flask requests pandas`
 
 > [!TIP]
 > Refer to requirements.txt to show exact versions that worked for me.\
@@ -37,11 +36,8 @@ Replace the `X-ApiKey` in `market.py` header to match yours.\
 ### Executing Program
 
 * Start the flask web server on localhost: `run.bat`
-
 * Open your browser, point it to "http://127.0.0.1/"
-
 * Click Builds, Add New Build. Type in an item you want to build.
-
 
 ## Acknowledgments
 Special Thanks to Eve Online pilots Cat-Mix and Astral Destiny for their support in guiding and testing this tool.
