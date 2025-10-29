@@ -30,7 +30,7 @@ Standalone Python tool to help visualize blueprint costs and materials breakdown
 ### Customizing Configuration
 
 (Optional, but Recommended)\
-Get your own Janice API Key: https://github.com/E-351/janice?tab=readme-ov-file#api\
+Get your own Janice API Key: https://github.com/E-351/janice?tab=readme-ov-file#api \
 Replace the `X-ApiKey` in `market.py` header to match yours.\
 (The key used currently is Janice's "public" key, from their examples)
 
