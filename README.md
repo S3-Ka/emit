@@ -4,6 +4,18 @@ Eve Online Marketing and Industry Tool
 ## Description
 Standalone Python tool to help visualize blueprint costs and materials breakdown.
 
+### What This Tool Is
+* A pet project of mine.
+* Provides general value breakdown of blueprints, compared to (Jita) market prices (using Janice)
+
+### What This Tool Isn't
+* Good. Or tested, even.
+* A detailed profit margin planner.  Missing too many details: Build costs, taxes, etc.
+
+### Why This Tool is Here
+* To share my love of coding (read: hacking) with you
+* To inspire you to make something better! (don't worry: the bar is really low :stuck_out_tongue:)
+
 ## Getting Started
 
 ### Installing
@@ -33,7 +45,7 @@ Get your own Janice API Key: https://github.com/E-351/janice?tab=readme-ov-file#
 Replace the `X-ApiKey` in `market.py` header to match yours.\
 (The key used currently is Janice's "public" key, from their examples)
 
-### Executing Program
+## Executing Program
 
 * Start the flask web server on localhost: `run.bat`
 * Open your browser, point it to "http://127.0.0.1/"
@@ -42,7 +54,7 @@ Replace the `X-ApiKey` in `market.py` header to match yours.\
 ## Acknowledgments
 Special Thanks to Eve Online pilots Cat-Mix and Astral Destiny for their support in guiding and testing this tool.
 
-Supporting JS Projects:
+## Supporting JS Projects
 * Grid.js - MIT License: https://gridjs.io/docs/license 
 * Chart.js - MIT License: https://github.com/chartjs/Chart.js/blob/master/LICENSE.md
 * Go.js - Evaluation License: https://github.com/NorthwoodsSoftware/GoJS/blob/master/evaluationLicense.html
